@@ -1,7 +1,7 @@
 name: aliyunoss_plus_flutter
 description: A new Flutter package project.Upload to the aliyun_oss . It can be a video, a picture, or something else
 version: 1.0.0
-homepage:
+homepage: https://github.com/kira2015/aliyunoss_plus_flutter
 
 environment:
   sdk: '>=2.18.1 <3.0.0'
