@@ -1,6 +1,6 @@
 name: aliyunoss_plus_flutter
-description: Upload to the aliyun_oss. It can be a video, a picture, or something else
-version: 1.0.0
+description: 当今最好的阿里云oss插件,使用简单方便,支持分片、断点续传! Upload to the aliyun_oss. It can be a video, a picture, or something else
+version: 1.0.1
 homepage: https://github.com/kira2015/aliyunoss_plus_flutter
 repository: https://github.com/kira2015/aliyunoss_plus_flutter
 environment:
