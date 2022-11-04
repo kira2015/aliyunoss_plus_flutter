@@ -11,22 +11,20 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages).
 -->
 
-TODO: 阿里云oss,目前最好用的库,没有之一.终于为杂乱无章的非官方库画上句号!
+## 阿里云oss,目前最好用的库,没有之一.终于为杂乱无章的非官方库画上句号!
 
 ## Features
 
-TODO: Upload to the aliyun_oss . It can be a video, a picture, or something else
+Upload to the aliyun_oss . It can be a video, a picture, or something else
 
 ## Getting started
 
-TODO: Install
+### Install
 ```
 aliyunoss_plus_flutter: ^1.0.0
 ```
 
 ## Usage
-
-TODO: 
 
 ```dart
 import 'package:aliyunoss_plus_flutter/aliyunoss_plus_flutter.dart';
@@ -119,8 +117,4 @@ class _AliyunPageState extends State<AliyunPage> {
 
 ```
 
-## Additional information
 
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
